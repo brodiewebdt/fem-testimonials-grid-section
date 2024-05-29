@@ -142,6 +142,11 @@ img {
 
 article:nth-child(1) {
   grid-area: testimonial-1;
+
+  background-image: url('../assets/images/bg-pattern-quotation.svg');
+  background-repeat: no-repeat;
+  background-position: top 0.5rem right 1.5rem;
+  background-size: 6.5rem auto;
 }
 article:nth-child(2) {
   grid-area: testimonial-2;
@@ -163,6 +168,10 @@ article:nth-child(5) {
       'testimonial-2 testimonial-5'
       'testimonial-3 testimonial-5'
       'testimonial-4 testimonial-4';
+  }
+
+  article:nth-child(1) {
+    background-position: top 0.5rem right 5rem;
   }
 }
 
