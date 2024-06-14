@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-orq1WR9eF-]
+- Live Site URL: [https://deft-speculoos-b586fc.netlify.app/]
 
 ## My process
 
@@ -52,7 +52,7 @@ Users should be able to:
 
 ### What I learned
 
-This is another redo of the testimonials grid section. It came out much closer to the design than the first time. I learned a lot about how to use grid and flexbox together to get the layout I wanted. I also continued to sue custom properties for the colors, font sizes and spacing.
+This is another redo of the testimonials grid section. It came out much closer to the design than the first time. I learned a lot about how to use grid and flexbox together to get the layout I wanted. I also continued to use custom properties for the colors, font sizes and spacing.
 
 ### Continued development
 
