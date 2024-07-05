@@ -140,7 +140,7 @@ img {
   margin-inline: auto;
 }
 
-article:nth-child(1) {
+.testimonial:nth-child(1) {
   grid-area: testimonial-1;
 
   background-image: url('../assets/images/bg-pattern-quotation.svg');
@@ -148,16 +148,16 @@ article:nth-child(1) {
   background-position: top 0.5rem right 1.5rem;
   background-size: 6.5rem auto;
 }
-article:nth-child(2) {
+.testimonial:nth-child(2) {
   grid-area: testimonial-2;
 }
-article:nth-child(3) {
+.testimonial:nth-child(3) {
   grid-area: testimonial-3;
 }
-article:nth-child(4) {
+.testimonial:nth-child(4) {
   grid-area: testimonial-4;
 }
-article:nth-child(5) {
+.testimonial:nth-child(5) {
   grid-area: testimonial-5;
 }
 
@@ -170,7 +170,7 @@ article:nth-child(5) {
       'testimonial-4 testimonial-4';
   }
 
-  article:nth-child(1) {
+  .testimonial:nth-child(1) {
     background-position: top 0.5rem right 5rem;
   }
 }
@@ -183,7 +183,7 @@ article:nth-child(5) {
   }
 }
 
-article {
+.testimonial {
   border-radius: 0.5rem;
   padding: 2rem;
 }
